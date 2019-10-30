@@ -1,0 +1,73 @@
+2019-10-23 15:30:22,312 INFO [main] c.o.P.PhraseOMaticApplication [StartupInfoLogger.java:55] Starting PhraseOMaticApplication on d69sav03 with PID 32524 (C:\p\orelly\PhraseOMatic\target\classes started by 69SizykhAV in C:\p\orelly\PhraseOMatic)
+2019-10-23 15:30:22,314 INFO [main] c.o.P.PhraseOMaticApplication [SpringApplication.java:651] No active profile set, falling back to default profiles: default
+2019-10-23 15:30:22,895 INFO [main] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:92] Tomcat initialized with port(s): 8080 (http)
+2019-10-23 15:30:22,900 INFO [main] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Initializing ProtocolHandler ["http-nio-8080"]
+2019-10-23 15:30:22,901 INFO [main] o.a.c.c.StandardService [DirectJDKLog.java:173] Starting service [Tomcat]
+2019-10-23 15:30:22,902 INFO [main] o.a.c.c.StandardEngine [DirectJDKLog.java:173] Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-10-23 15:30:22,958 INFO [main] o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] Initializing Spring embedded WebApplicationContext
+2019-10-23 15:30:22,958 INFO [main] o.s.w.c.ContextLoader [ServletWebServerApplicationContext.java:284] Root WebApplicationContext: initialization completed in 604 ms
+2019-10-23 15:30:22,989 INFO [main] c.o.P.PhraseOMatic [PhraseOMatic.java:25] Начинаем генерацию фразы
+2019-10-23 15:30:22,990 INFO [main] c.o.P.PhraseOMatic [PhraseOMatic.java:30] Получены слова для генерации фразы
+2019-10-23 15:30:22,990 INFO [main] c.o.P.PhraseOMatic [PhraseOMatic.java:41] Фраза сформирована
+2019-10-23 15:30:22,990 INFO [main] c.o.P.PhraseOMatic [PhraseOMatic.java:42] Все что нам нужно это трех-звенный использованый с выгодой процесс
+2019-10-23 15:30:23,065 INFO [main] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:171] Initializing ExecutorService 'applicationTaskExecutor'
+2019-10-23 15:30:23,155 INFO [main] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Starting ProtocolHandler ["http-nio-8080"]
+2019-10-23 15:30:23,172 INFO [main] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:204] Tomcat started on port(s): 8080 (http) with context path ''
+2019-10-23 15:30:23,174 INFO [main] c.o.P.PhraseOMaticApplication [StartupInfoLogger.java:61] Started PhraseOMaticApplication in 1.169 seconds (JVM running for 1.635)
+2019-10-23 15:32:11,985 INFO [main] c.o.P.PhraseOMaticApplication [StartupInfoLogger.java:55] Starting PhraseOMaticApplication on d69sav03 with PID 23788 (C:\p\orelly\PhraseOMatic\target\classes started by 69SizykhAV in C:\p\orelly\PhraseOMatic)
+2019-10-23 15:32:11,989 INFO [main] c.o.P.PhraseOMaticApplication [SpringApplication.java:651] No active profile set, falling back to default profiles: default
+2019-10-23 15:32:12,646 INFO [main] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:92] Tomcat initialized with port(s): 8080 (http)
+2019-10-23 15:32:12,652 INFO [main] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Initializing ProtocolHandler ["http-nio-8080"]
+2019-10-23 15:32:12,653 INFO [main] o.a.c.c.StandardService [DirectJDKLog.java:173] Starting service [Tomcat]
+2019-10-23 15:32:12,653 INFO [main] o.a.c.c.StandardEngine [DirectJDKLog.java:173] Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-10-23 15:32:12,712 INFO [main] o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] Initializing Spring embedded WebApplicationContext
+2019-10-23 15:32:12,712 INFO [main] o.s.w.c.ContextLoader [ServletWebServerApplicationContext.java:284] Root WebApplicationContext: initialization completed in 688 ms
+2019-10-23 15:32:12,748 INFO [main] c.o.P.c.PhraseData [PhraseData.java:20] Забрали значение слов из группы 1
+2019-10-23 15:32:12,749 INFO [main] c.o.P.c.PhraseData [PhraseData.java:31] Забрали значение слов из группы 3
+2019-10-23 15:32:12,750 INFO [main] c.o.P.c.PhraseData [PhraseData.java:25] Забрали значение слов из группы 2
+2019-10-23 15:32:12,751 INFO [main] c.o.P.PhraseOMatic [PhraseOMatic.java:25] Начинаем генерацию фразы
+2019-10-23 15:32:12,751 INFO [main] c.o.P.PhraseOMatic [PhraseOMatic.java:30] Получены слова для генерации фразы
+2019-10-23 15:32:12,751 INFO [main] c.o.P.PhraseOMatic [PhraseOMatic.java:41] Фраза сформирована
+2019-10-23 15:32:12,752 INFO [main] c.o.P.PhraseOMatic [PhraseOMatic.java:42] Все что нам нужно это круглосуточный сетевой подход
+2019-10-23 15:32:12,842 INFO [main] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:171] Initializing ExecutorService 'applicationTaskExecutor'
+2019-10-23 15:32:12,962 INFO [main] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Starting ProtocolHandler ["http-nio-8080"]
+2019-10-23 15:32:12,982 INFO [main] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:204] Tomcat started on port(s): 8080 (http) with context path ''
+2019-10-23 15:32:12,985 INFO [main] c.o.P.PhraseOMaticApplication [StartupInfoLogger.java:61] Started PhraseOMaticApplication in 1.383 seconds (JVM running for 2.104)
+2019-10-23 15:32:59,559 INFO [main] c.o.P.PhraseOMaticApplication [StartupInfoLogger.java:55] Starting PhraseOMaticApplication on d69sav03 with PID 37492 (C:\p\orelly\PhraseOMatic\target\classes started by 69SizykhAV in C:\p\orelly\PhraseOMatic)
+2019-10-23 15:32:59,562 INFO [main] c.o.P.PhraseOMaticApplication [SpringApplication.java:651] No active profile set, falling back to default profiles: default
+2019-10-23 15:33:00,244 INFO [main] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:92] Tomcat initialized with port(s): 8080 (http)
+2019-10-23 15:33:00,251 INFO [main] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Initializing ProtocolHandler ["http-nio-8080"]
+2019-10-23 15:33:00,251 INFO [main] o.a.c.c.StandardService [DirectJDKLog.java:173] Starting service [Tomcat]
+2019-10-23 15:33:00,252 INFO [main] o.a.c.c.StandardEngine [DirectJDKLog.java:173] Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-10-23 15:33:00,308 INFO [main] o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] Initializing Spring embedded WebApplicationContext
+2019-10-23 15:33:00,309 INFO [main] o.s.w.c.ContextLoader [ServletWebServerApplicationContext.java:284] Root WebApplicationContext: initialization completed in 706 ms
+2019-10-23 15:33:00,344 INFO [main] c.o.P.c.PhraseData [PhraseData.java:25] Забрали значение слов из группы 2
+2019-10-23 15:33:00,345 INFO [main] c.o.P.c.PhraseData [PhraseData.java:31] Забрали значение слов из группы 3
+2019-10-23 15:33:00,346 INFO [main] c.o.P.c.PhraseData [PhraseData.java:20] Забрали значение слов из группы 1
+2019-10-23 15:33:00,346 INFO [main] c.o.P.PhraseOMatic [PhraseOMatic.java:25] Начинаем генерацию фразы
+2019-10-23 15:33:00,347 INFO [main] c.o.P.PhraseOMatic [PhraseOMatic.java:30] Рассчитано количество слов
+2019-10-23 15:33:00,347 INFO [main] c.o.P.PhraseOMatic [PhraseOMatic.java:41] Фраза сформирована
+2019-10-23 15:33:00,347 INFO [main] c.o.P.PhraseOMatic [PhraseOMatic.java:42] Все что нам нужно это динамический ускоренный обзор
+2019-10-23 15:33:00,438 INFO [main] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:171] Initializing ExecutorService 'applicationTaskExecutor'
+2019-10-23 15:33:00,553 INFO [main] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Starting ProtocolHandler ["http-nio-8080"]
+2019-10-23 15:33:00,572 INFO [main] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:204] Tomcat started on port(s): 8080 (http) with context path ''
+2019-10-23 15:33:00,575 INFO [main] c.o.P.PhraseOMaticApplication [StartupInfoLogger.java:61] Started PhraseOMaticApplication in 1.399 seconds (JVM running for 2.071)
+2019-10-23 15:37:55,822 INFO [main] c.o.P.PhraseOMaticApplication [StartupInfoLogger.java:55] Starting PhraseOMaticApplication on d69sav03 with PID 36208 (C:\p\orelly\PhraseOMatic\target\classes started by 69SizykhAV in C:\p\orelly\PhraseOMatic)
+2019-10-23 15:37:55,825 INFO [main] c.o.P.PhraseOMaticApplication [SpringApplication.java:651] No active profile set, falling back to default profiles: default
+2019-10-23 15:37:56,380 INFO [main] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:92] Tomcat initialized with port(s): 8080 (http)
+2019-10-23 15:37:56,385 INFO [main] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Initializing ProtocolHandler ["http-nio-8080"]
+2019-10-23 15:37:56,386 INFO [main] o.a.c.c.StandardService [DirectJDKLog.java:173] Starting service [Tomcat]
+2019-10-23 15:37:56,386 INFO [main] o.a.c.c.StandardEngine [DirectJDKLog.java:173] Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-10-23 15:37:56,437 INFO [main] o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] Initializing Spring embedded WebApplicationContext
+2019-10-23 15:37:56,438 INFO [main] o.s.w.c.ContextLoader [ServletWebServerApplicationContext.java:284] Root WebApplicationContext: initialization completed in 574 ms
+2019-10-23 15:37:56,467 INFO [main] c.o.P.c.PhraseData [PhraseData.java:31] Забрали значение слов из группы 3
+2019-10-23 15:37:56,468 INFO [main] c.o.P.c.PhraseData [PhraseData.java:25] Забрали значение слов из группы 2
+2019-10-23 15:37:56,469 INFO [main] c.o.P.c.PhraseData [PhraseData.java:20] Забрали значение слов из группы 1
+2019-10-23 15:37:56,469 INFO [main] c.o.P.PhraseOMatic [PhraseOMatic.java:25] Начинаем генерацию фразы
+2019-10-23 15:37:56,469 INFO [main] c.o.P.PhraseOMatic [PhraseOMatic.java:30] Рассчитано количество слов
+2019-10-23 15:37:56,470 INFO [main] c.o.P.PhraseOMatic [PhraseOMatic.java:41] Фраза сформирована
+2019-10-23 15:37:56,470 INFO [main] c.o.P.PhraseOMatic [PhraseOMatic.java:42] Все что нам нужно это взаимный ускоренный портал
+2019-10-23 15:37:56,539 INFO [main] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:171] Initializing ExecutorService 'applicationTaskExecutor'
+2019-10-23 15:37:56,621 INFO [main] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Starting ProtocolHandler ["http-nio-8080"]
+2019-10-23 15:37:56,637 INFO [main] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:204] Tomcat started on port(s): 8080 (http) with context path ''
+2019-10-23 15:37:56,639 INFO [main] c.o.P.PhraseOMaticApplication [StartupInfoLogger.java:61] Started PhraseOMaticApplication in 1.092 seconds (JVM running for 1.636)
